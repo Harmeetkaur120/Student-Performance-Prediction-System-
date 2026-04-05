@@ -1,9 +1,3 @@
-Since you are presenting this for a **TCS Prime** interview, your GitHub README needs to look professional, structured, and "developer-ready." A good README proves that you don't just write code, but you also know how to document and share your work.
-
-Here is a high-quality README template you can use. 
-
----
-
 # 🎬 Movie Successor: A Content-Based Recommendation Engine
 
 **Movie Successor** is a Machine Learning-based system that suggests the top 5 movies most similar to a user's favorite film. By analyzing metadata such as genres, keywords, cast, and crew, the engine maps movies into a high-dimensional vector space and identifies "neighbors" using mathematical similarity.
